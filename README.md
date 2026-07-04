@@ -39,23 +39,6 @@ Users can answer questions one at a time, track their score, and restart the qui
 
 ##  Project Structure
 
-quiz-master/
-│
-├── src/
-│   ├── components/
-│   │   └── QuestionCard.jsx
-│   │
-│   ├── data.js
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-│
-├── public/
-├── package.json
-├── vite.config.js
-└── README.md
-
-
 ---
 
 ##  Getting Started
